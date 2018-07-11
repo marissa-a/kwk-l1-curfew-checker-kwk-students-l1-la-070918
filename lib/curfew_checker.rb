@@ -1,7 +1,7 @@
 def simple_curfew_checker(time)
   # code goes here
   if time>=11
-    puts "Get back to the common room!"
+    puts "You're in trouble "
 end
 
 def curfew_checker(time)
